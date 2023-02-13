@@ -1,2 +1,2 @@
 #!/bin/bash
-echo -e "Hello, World" > file.txt ""
+echo Hello, World ""
